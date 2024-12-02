@@ -1,4 +1,4 @@
-Mind_Masterr
+🔑Mind_Masterr
 
 A fast, simple, scriptable implementation of Mind_Masterr in Python , with an AI solver.
 
@@ -49,6 +49,26 @@ Capture1
 The solver algorithm To run the solver, run Mind_Masterr_ai.py. The grid size and number of mines, as well as other parameters, can be changed in the code at the bottom
 
 of this file. By default, 10 games are solved, then the solver stops and prints the number of wins and losses. This is very satisfying :)
+
+
+🔑 Algorithm 
+
+1.Identify opened cells which has closed neighbour mines.
+
+2.Iterate through them and open/flag cells by analysing each individual cell until possible.
+
+3.When there is no any progress in step two, try to analyse chunks of cells which has common neighbours and go to step 2 after first iteration.
+
+4.When steps 2 and 3 didn't find any solution - try to guess one cell and go to step 2.
+
+5.Continue this algorithm until the game is finished.
+
+
+
+
+
+
+
 
 🌟Keyboard controls:
 
