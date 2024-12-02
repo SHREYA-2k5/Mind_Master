@@ -12,6 +12,39 @@ Playing the game
 
 To play the game yourself, run Mind_Masterr.pyw. The grid size and number of mines can be changed in the file settings.json.
 
+
+
+
+<img width="321" alt="391670644-801746c2-ed1f-4dd2-83d2-f92fa00beb22" src="https://github.com/user-attachments/assets/0b79afa7-7383-4e38-83e1-0d589da4c2a7">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Capture1
 The solver algorithm To run the solver, run Mind_Masterr_ai.py. The grid size and number of mines, as well as other parameters, can be changed in the code at the bottom
 
