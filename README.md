@@ -65,5 +65,4 @@ Tech stack:
 Python 3.6+
 
 numpy for AI
-
-The solver (contained in the BasicRulesetAI class) has been written to be subclassable, so that better algorithms could be implemented and compared.
+ 
