@@ -62,7 +62,7 @@ As opposed to starting at the corners , this solver starts by guessing a square 
 
 there are no such squares found, the algorithm tries to find a square with a low probability of being mined, and guesses. A full depth-first search would find the exact probabilities, at the expense of involving
 
-some very large integers and potentially being slow. I'm planning to maybe implement one at some point.
+ 
 
 
 
